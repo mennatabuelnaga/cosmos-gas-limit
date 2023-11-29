@@ -1,1 +1,1 @@
-de0cf93aa7c747dd8aa43aedd983c960cd83eec00510cbc687f881aedb7c4e1f  infinite_loop.wasm
+b9e641a3aa9ae4521533f390889ec3bdf08a14a83b52d0d23bcaffaae6e62e40  infinite_loop.wasm
